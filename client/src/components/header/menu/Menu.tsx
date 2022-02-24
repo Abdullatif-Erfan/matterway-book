@@ -3,7 +3,7 @@ import "./menuStyle.css";
 
 const Menu = () => (
   <div className="menuWrapper">
-    <div className="container">Menu Sample</div>
+    <div className="container">Menu</div>
   </div>
 );
 
